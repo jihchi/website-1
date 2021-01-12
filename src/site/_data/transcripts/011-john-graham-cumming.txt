@@ -5,7 +5,7 @@
 00:00:24 Steve Tuck: Present.
 00:00:25 Bryan: All right, Jessie, you want to introduce who we've got in the virtual garage today?
 00:00:29 Jessie: Yes. Remotely, which is a fun one, we have John Graham-Cumming, who wrote The Geek Atlas. I was just looking at that this morning and The Make book that I also have, and also works at Cloudflare as the CTO.
-[00:00:43] Bryan; All right, John, welcome.
+00:00:43 Bryan; All right, John, welcome.
 00:00:45 John Graham-Cumming: Thank you very much. It's very nice to be able to talk to you, from far away.
 00:00:49 Bryan: Yes, this is a conversation we've really been looking forward to having for a long time because when you dial up computer history, which we've been known to do on this podcast, you turn the dial all the way back. Do you want to talk about how you got into Babbage and his work with Lovelace and so on?
 00:01:09 John: Yes. I think I probably knew about it at university because it was mentioned just like, "Oh, by the way, there was this other thing, and maybe it was a computer, Charles Babbage. Then what really happened was, right at a time when I was at university in the UK, the Science Museum in London started building one of Babbage's machines, this thing called the difference engine, which is really a very big specialized calculator. It is not a computer and they started actually taking his plans and building it. Because of where I live when I was at college, and where my parents were, I used to have to travel through London.
@@ -36,7 +36,7 @@ They said, "Well, we probably spent that much money on piano lessons so we'll bu
 00:05:11 John: I actually don't think my parents had that little money but it was more like I had this thing where I was like I got to--
 00:05:18 Bryan: If it draws 60 watts, this is not even observable on the power bill I assume.
 00:05:23 John: I guess but I felt as a-- I was a child and I decided I've got to do my bit.
-00:05:28 Bryan: What a [unintelligible 00:05:28] child.
+00:05:28 Bryan: What a [unintelligible] child.
 [crosstalk]
 00:05:29 Jessie: I know, it's really cute.
 00:05:30 Bryan: Meanwhile, my child--
@@ -44,7 +44,7 @@ They said, "Well, we probably spent that much money on piano lessons so we'll bu
 00:05:32 Bryan: I'll take one of those too. I can't get my kids to be like, "Could you just get off the mobile network and onto the wifi so you don't bankrupt the household watching Youtube."
 00:05:41 John: It was a different time.
 00:05:42 Bryan: It was a different time. Children were so mindful of the power bill.
-00:05:47 Jon: Actually to continue to answer your question if you go really right back in time, at some point when I was about I think seven, I was very bright and my parents were, "What the hell do we do with this bright kid?" They [00:06:00] found-- They [00:06:00] found-- because it's pre-internet. This is in the '70s. They found this association which was for desperate parents of intelligent children.
+00:05:47 Jon: Actually to continue to answer your question if you go really right back in time, at some point when I was about I think seven, I was very bright and my parents were, "What the hell do we do with this bright kid?" They found-- because it's pre-internet. This is in the '70s. They found this association which was for desperate parents of intelligent children.
 [laughter]
 They're like, "What do we do with him?" They do this thing at Cambridge University in the summer where you could basically take your kids and dump them off and there your kids run wild. I went to that a couple of times and I actually hated it because some of the kids were so snotty, but there was one person I went up to and obviously, this person was in either the mathematics or computer science department at Cambridge, and I said, "Oh, explain to me how a computer works. I want to know." Imagine I'm like seven years old.
 What I remember of that is the person getting out a pad of paper and starting drew this strip on it and build boxes on it and basically describe the Turing machine. I have at home, my own little Turing things I've tried to do in strips of paper and come up with this computer thing. I think I was infected with computer stuff pretty early on. Mother would say even as a baby I was fascinated by things like how does the clock work? I would stare at clocks, "How does that work?" I don't know. Something happens probably in the womb, maybe.
@@ -58,7 +58,7 @@ What I remember of that is the person getting out a pad of paper and starting dr
 00:08:28 John: Yes. It's a bit like a Commodore PET as an integrated CRT and a tape player, and unusually it had a keyboard where you could actually type every character that was in the character set. It's really weird because basically, it didn't have ASCII. It had its own thing with all sorts of crazy symbols and stuff and you could type everything. Anyway, I was reading some assembly language programming basically to make my programs faster or to access bits of the operating system and build various things. Me with another boy in high school, we wrote programs. We wrote a statistical analysis package. We wrote I think, the timetabling. Then basically around this time there, we had a 100-kilobit per second I think local area network at school. We disassembled the operating system and figured out how to make it work. I think the funny thing was we disassembled how the operating system worked so we could get access to the network.
 Then we implemented our own packet, send and receive routines, implemented our own stateful protocol on top of it so we could reliably send stuff, built a network management package, all of this in the assembly language.
 00:09:42 Bryan: Wait, and all of this, very early for local area networking, right?
-00:09:45 John: Yes, exactly, because there was this company in the UK called Research Machines that sold computers to schools, and they were first going on. The high school I was at the [unintelligible 00:09:56] school in the UK, the headteacher died very suddenly of a brain hemorrhage.
+00:09:45 John: Yes, exactly, because there was this company in the UK called Research Machines that sold computers to schools, and they were first going on. The high school I was at the [unintelligible] school in the UK, the headteacher died very suddenly of a brain hemorrhage.
 00:10:02 Bryan: Oh my gosh.
 00:10:02 John: A lot of money was raised, and the money was spent on this new thing which was a computer room.
 00:10:08 Jessie: Cool.
@@ -109,7 +109,7 @@ It was a little bit obsessive.
 00:17:43 John: No, I don't think so. Actually, I think that they were worried about me not going outside and socializing. I don't think they were worried about the computer. I think it was just, "Why is he spending so much time inside? What is he doing?" On the other hand, I seem to be enjoying it and I wasn't causing any troubles.
 00:18:02 Bryan: You were very mindful of the power bill. I just [crosstalk]-
 00:18:06 Jessie: Turning off lights. Sitting in the dark.
-00:18:07 Bryan: Can't imagine such a considerate child. Then you head off to university and it's not too much longer thereafter that you're on the Sunny Leone in London trying to figure out the difference [unintelligible 00:18:21].
+00:18:07 Bryan: Can't imagine such a considerate child. Then you head off to university and it's not too much longer thereafter that you're on the Sunny Leone in London trying to figure out the difference [unintelligible].
 00:18:21 John: Yes, exactly.
 00:18:22 John: Well, I took a year out actually, because I'd jumped a year at school. I felt like I was a bit young to go to college. I took a year out and I went and did a bunch of electronics stuff. I went to a local technical college and just did electronics. Felt interested in electronics, learned about how things really work. Then I got to Oxford and I'm going back and forth where my parents lived and Babbage comes along.
 Although, I will tell you one funny thing, which is that, years after all of this, during the last few years, I read a school report of Alan Turing. In it, the schoolmaster is saying, "You really ought to do better all these other subjects other than just science and mathematics, because if you don't, you will grow up to be a mere technician."
@@ -167,7 +167,7 @@ There he's like, "Okay, well--" Essentially he microcodes that and the way he do
 00:27:53 John: Yes.
 00:27:54 Bryan: It was actually buildable.
 00:27:55 John: That's really the cool thing actually which is that is the other crazy thing about Babbage, the manufacturing techniques, everything is hand-built. For example, at the time if you got nuts and bolts, you had to go back to the same nut and bolt manufacturer because there was no standardized threads. Babbage before actually embarking on building even the difference engine stuff, he went on a tour of England, going to visit people who did manufacturing to understanding the state of the art of manufacturing. He eventually teamed up with someone in London, who had an apprentice and that apprentice was the person who ultimately would standardize screw and nut and bolt threads.
-[00:28:39] Jessie That's crazy.
+00:28:39 Jessie: That's crazy.
 00:28:39 Bryan: As a contribution to humanity, this is the standard.
 00:28:45 Jessie: He's clearly good at hiring.
 00:28:46 Bryan: [laughs] He is very good at hiring.
